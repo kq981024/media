@@ -1,2 +1,2 @@
-# wkqWarehouse
+# 媒体仓库
 图片仓库
